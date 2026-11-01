@@ -1,0 +1,4 @@
+pandas
+matplotlib
+seaborn
+sklearn==1.9.1
